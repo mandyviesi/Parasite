@@ -1,4 +1,4 @@
-The perks of being in good conditions: how does female parasitism affect male mate choice in an orb-web spider?
+# The perks of being in good conditions: how does female parasitism affect male mate choice in an orb-web spider?
 Amanda Vieira da Silva¹², Joao Gabriel Lacerda de Almeida³
 ¹Federal University of ABC (Brazil), ² University of Michigan (USA), ³ Federal University of Minas Gerais (Brazil)
 E-mail: amanda.vieira@ufabc.edu.br
