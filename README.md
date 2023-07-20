@@ -45,8 +45,7 @@ This data collection was part of Amanda's masters and Joao Gabriel undergraduate
 # SHARING AND ACCESS INFORMATION
 
 ### Links to publications
-Article under review
-
+[Ethology](https://onlinelibrary.wiley.com/doi/10.1111/eth.13383)
 ----------------------------------------------------------------------------------------------
 # METHODOLOGICAL INFORMATION
 
